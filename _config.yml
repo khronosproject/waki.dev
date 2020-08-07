@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: https://github.com/rohanchandra/type-theme
+theme_settings:
+  title: WebAssembly Khronos Interface
+  github: khronosproject/waki
